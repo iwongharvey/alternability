@@ -12,6 +12,11 @@
         {% for image in project.images %}
         "{{ image }}"{% if image != project.images.last %},{% endif %}
         {% endfor %}
+      ],
+      "tags": [
+        {% for tag in project.tags %}
+        "{{ tag }}"{% if tag != project.tags.last %},{% endif %}
+        {% endfor %}
       ]
     }{% if project != site.projects.last %},{% endif %}
     {% endfor %}
