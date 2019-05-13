@@ -29,5 +29,12 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+- name: test
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: test
 pages:
 - _projects/project-1.md
