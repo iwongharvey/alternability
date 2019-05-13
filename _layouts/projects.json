@@ -4,6 +4,7 @@
   "projects": [
     {% for project in site.projects %}
     {
+      "id": "{{ project.id }}",
       "title": "{{ project.title }}",
       "thumbnail": "{{ project.thumbnail }}",
       "images": [
