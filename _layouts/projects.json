@@ -4,7 +4,7 @@
   "projects": [
     {% for project in site.projects %}
     {
-      "id": "{{ project.id }}",
+      "id": "{{ project.id | split: "/" | last }}",
       "date": "{{ project.date }}",
       "title": "{{ project.title }}",
       "thumbnail": "{{ project.thumbnail }}",
