@@ -10,6 +10,4 @@ images:
 ---
 project 1
 
-hille
-
-ok
+hill
