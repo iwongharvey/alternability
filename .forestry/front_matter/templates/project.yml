@@ -5,6 +5,26 @@ fields:
 - type: text
   name: title
   label: Title
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Shop
+    - Restraurant
+    - Hotel
+    - Brand
+    - House
+    - Building
+    - Products
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: Project Category
 - name: date
   type: datetime
   label: date
@@ -20,11 +40,6 @@ fields:
   description: Thumbnail Image at 70 pixels by 70 pixels
   hidden: false
   default: ''
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: []
 - name: images
   type: image_gallery
   config: {}
