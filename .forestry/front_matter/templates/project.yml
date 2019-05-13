@@ -5,6 +5,15 @@ fields:
 - type: text
   name: title
   label: Title
+- name: date
+  type: datetime
+  label: date
+  description: Date of the project
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: thumbnail
   label: Thumbnail
   type: file
