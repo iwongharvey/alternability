@@ -30,10 +30,11 @@ fields:
   label: date
   description: Date of the project
   config:
-    required: false
+    required: true
     date_format: 
     time_format: 
     display_utc: false
+  default: now
 - name: thumbnail
   label: Thumbnail
   type: file
