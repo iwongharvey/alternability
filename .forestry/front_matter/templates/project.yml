@@ -20,3 +20,5 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+pages:
+- _projects/project-1.md
