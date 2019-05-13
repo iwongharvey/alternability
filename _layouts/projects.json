@@ -1,9 +1,11 @@
 {% assign titles = site.projects | map: "title" |  %}
 
 {
-  "posts": [
+  "projects": [
     {% for project in site.projects %}
-     "{{ project.title }}"{% if project != site.projects.last %},{% endif %}
+    {
+      "title": "{{ project.title }}"
+    }{% if project != site.projects.last %},{% endif %}
     {% endfor %}
   ]
 }
