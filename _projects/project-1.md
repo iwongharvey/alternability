@@ -10,6 +10,8 @@ images:
 date: 2019-05-12T16:00:00.000+00:00
 test: []
 category: Shop
+client: MornFashion
+location: Guangzhou
 
 ---
 This is project 1
