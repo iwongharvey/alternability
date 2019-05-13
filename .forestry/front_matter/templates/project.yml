@@ -5,10 +5,10 @@ fields:
 - type: text
   name: title
   label: Title
-- name: banner_image
-  label: Banner Image
+- name: thumbnail
+  label: Thumbnail
   type: file
-  description: Dimensions work best at 1200 pixels by 400 pixels
+  description: Thumbnail Image at 70 pixels by 70 pixels
   hidden: false
   default: ''
 - name: tags
