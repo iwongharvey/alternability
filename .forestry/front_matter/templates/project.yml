@@ -27,7 +27,7 @@ fields:
   description: Project Category
 - name: date
   type: datetime
-  label: date
+  label: Date
   description: Date of the project
   config:
     required: true
@@ -41,6 +41,16 @@ fields:
   description: Thumbnail Image at 70 pixels by 70 pixels
   hidden: false
   default: ''
+- name: client
+  type: text
+  config:
+    required: true
+  label: Client
+- name: location
+  type: text
+  config:
+    required: true
+  label: Location
 - name: images
   type: image_gallery
   config: {}
