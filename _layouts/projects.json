@@ -4,7 +4,13 @@
   "projects": [
     {% for project in site.projects %}
     {
-      "title": "{{ project.title }}"
+      "title": "{{ project.title }}",
+      "thumbnail": "{{ project.thumbnail }}",
+      "images": [
+        {% for image in project.images %}
+        "{{ image }}"{% if image != project.images.last %},{% endif %}
+        {% endfor %}
+      ]
     }{% if project != site.projects.last %},{% endif %}
     {% endfor %}
   ]
