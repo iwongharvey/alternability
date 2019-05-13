@@ -9,6 +9,7 @@ images:
 - "/uploads/2018/12/07/compass.jpg"
 date: 2019-05-12T16:00:00.000+00:00
 test: []
+category: Shop
 
 ---
 This is project 1
