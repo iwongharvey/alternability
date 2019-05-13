@@ -56,4 +56,5 @@ fields:
   config: {}
   label: Images
 pages:
+- _projects/project-2.md
 - _projects/project-1.md
