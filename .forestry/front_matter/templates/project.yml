@@ -25,22 +25,16 @@ fields:
       path: 
   label: Category
   description: Project Category
-- name: date
-  type: datetime
-  label: Date
-  config:
-    required: true
-    date_format: 
-    time_format: 
-    display_utc: false
-  default: now
-  description: 设计时间
 - name: thumbnail
   label: Thumbnail
   type: file
   description: Thumbnail Image at 70 pixels by 70 pixels
   hidden: false
   default: ''
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
 - name: client
   type: text
   config:
@@ -51,15 +45,6 @@ fields:
   config:
     required: true
   label: Location
-- name: images
-  type: image_gallery
-  config: {}
-  label: Images
-- name: featured
-  type: boolean
-  label: Featured
-  description: To show in front page
-  default: false
 - name: area
   type: text
   config:
@@ -87,6 +72,16 @@ fields:
     required: false
   label: Constructor
   description: 施工团队
+- name: date
+  type: datetime
+  label: Date
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+  description: 设计时间
 - name: construction_date
   type: datetime
   label: Construction Date
@@ -96,6 +91,11 @@ fields:
     time_format: 
     display_utc: false
   description: 施工时间
+- name: featured
+  type: boolean
+  label: Featured
+  description: To show in front page
+  default: false
 pages:
 - _projects/project-3.md
 - _projects/project-2.md
