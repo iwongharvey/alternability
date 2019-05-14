@@ -15,6 +15,7 @@ leader: HARVEYWONG
 members: HARVEYWONG
 construction: 玮度装饰
 constructor: 姚康军
-construction_date: 2019-02-17 00:00:00 +0800
+construction_date: 2019-02-16T16:00:00.000+00:00
+designer: HARVEYWONG
 
 ---
