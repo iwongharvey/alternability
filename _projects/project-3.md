@@ -9,5 +9,6 @@ images:
 - "/uploads/2019/05/14/proj-3-3.png"
 - "/uploads/2019/05/14/proj-3-2.png"
 - "/uploads/2019/05/14/proj-3-1.png"
+featured: true
 
 ---
