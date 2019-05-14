@@ -28,13 +28,13 @@ fields:
 - name: date
   type: datetime
   label: Date
-  description: Date of the project
   config:
     required: true
     date_format: 
     time_format: 
     display_utc: false
   default: now
+  description: 设计时间
 - name: thumbnail
   label: Thumbnail
   type: file
@@ -90,12 +90,12 @@ fields:
 - name: construction_date
   type: datetime
   label: Construction Date
-  description: ''
   config:
     required: false
     date_format: 
     time_format: 
     display_utc: false
+  description: 施工时间
 pages:
 - _projects/project-3.md
 - _projects/project-2.md

@@ -10,5 +10,11 @@ images:
 - "/uploads/2019/05/14/proj-3-2.png"
 - "/uploads/2019/05/14/proj-3-3.png"
 featured: true
+area: 120
+leader: HARVEYWONG
+members: HARVEYWONG
+construction: 玮度装饰
+constructor: 姚康军
+construction_date: 2019-02-17 00:00:00 +0800
 
 ---
