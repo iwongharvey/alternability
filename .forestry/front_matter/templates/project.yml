@@ -60,6 +60,40 @@ fields:
   label: Featured
   description: To show in front page
   default: false
+- name: area
+  type: text
+  config:
+    required: true
+  label: Area
+- name: leader
+  type: text
+  config:
+    required: false
+  label: Leader
+- name: members
+  type: text
+  config:
+    required: false
+  label: Members
+- name: construction
+  type: text
+  config:
+    required: false
+  label: Construction
+- name: constructior
+  type: text
+  config:
+    required: false
+  label: Constructior
+- name: construction_date
+  type: datetime
+  label: Construction Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - _projects/project-3.md
 - _projects/project-2.md
