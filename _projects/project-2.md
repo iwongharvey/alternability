@@ -6,9 +6,9 @@ thumbnail: "/uploads/2019/05/14/thumb-2.png"
 client: MornFashion
 location: Guangzhou
 images:
-- "/uploads/2019/05/14/proj-2-2.png"
 - "/uploads/2019/05/14/proj-2-1.png"
 - "/uploads/2019/05/14/proj-2-3.png"
+- "/uploads/2019/05/14/proj-2-2.png"
 featured: true
 
 ---
