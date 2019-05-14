@@ -55,6 +55,11 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+- name: featured
+  type: boolean
+  label: Featured
+  description: To show in front page
+  default: false
 pages:
 - _projects/project-3.md
 - _projects/project-2.md

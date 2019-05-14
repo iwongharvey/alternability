@@ -13,6 +13,7 @@ test: []
 category: Shop
 client: MornFashion
 location: Guangzhou
+featured: true
 
 ---
 This is project 1
