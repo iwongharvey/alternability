@@ -50,16 +50,18 @@ fields:
   config:
     required: true
   label: Area
-- name: leader
+- name: designer
   type: text
   config:
     required: false
-  label: Leader
+  label: Designer
+  description: 设计师
 - name: members
   type: text
   config:
     required: false
   label: Members
+  description: 设计团队
 - name: construction
   type: text
   config:
