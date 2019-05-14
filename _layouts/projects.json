@@ -16,6 +16,12 @@
       "category": "{{ project.category }}",
       "client": "{{ project.client }}",
       "location": "{{ project.location }}",
+      "area": "{{ project.area }}",
+      "designer": "{{ project.designer }}",
+      "members": "{{ project.members }}",
+      "construction": "{{ project.construction }}",
+      "constructior": "{{ project.constructior }}",
+      "construction_date": "{{ project.construction_date }}",
       "featured": {% if project.featured %}true{% else %}false{% endif %}
     }{% if project != site.projects.last %},{% endif %}
     {% endfor %}
