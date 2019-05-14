@@ -20,6 +20,8 @@ members: HARVEYWONG, XJX
 construction: 玮度装饰
 constructior: 姚康军
 construction_date: 2018-07-01 00:00:00 +0800
+designer: HARVEYWONG
+constructor: 姚康军
 
 ---
 This is project 1
