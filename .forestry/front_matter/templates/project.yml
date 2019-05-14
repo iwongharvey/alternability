@@ -80,11 +80,13 @@ fields:
   config:
     required: false
   label: Construction
-- name: constructior
+  description: 施工单位
+- name: constructor
   type: text
   config:
     required: false
-  label: Constructior
+  label: Constructor
+  description: 施工团队
 - name: construction_date
   type: datetime
   label: Construction Date
