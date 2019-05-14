@@ -13,11 +13,9 @@
         "{{ image }}"{% if image != project.images.last %},{% endif %}
         {% endfor %}
       ],
-      "tags": [
-        {% for tag in project.tags %}
-        "{{ tag }}"{% if tag != project.tags.last %},{% endif %}
-        {% endfor %}
-      ]
+      "category": "{{ project.category }}",
+      "client": "{{ project.client }}",
+      "location": "{{ project.location }}",
     }{% if project != site.projects.last %},{% endif %}
     {% endfor %}
   ]
