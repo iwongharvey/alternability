@@ -15,7 +15,7 @@
       ],
       "category": "{{ project.category }}",
       "client": "{{ project.client }}",
-      "location": "{{ project.location }}",
+      "location": "{{ project.location }}"
     }{% if project != site.projects.last %},{% endif %}
     {% endfor %}
   ]
