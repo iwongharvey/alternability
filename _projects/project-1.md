@@ -5,7 +5,6 @@ tags:
 title: Project 1
 thumbnail: "/uploads/2019/05/14/thumb-1.png"
 images:
-- "/uploads/2019/05/18/1280x800.png"
 - "/uploads/2019/05/14/proj-1-1.png"
 - "/uploads/2019/05/14/proj-1-2.png"
 - "/uploads/2019/05/14/proj-1-3.png"
