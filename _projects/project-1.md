@@ -2,7 +2,7 @@
 tags:
 - office
 - shop
-title: Project 1
+title: Morn Fashion
 thumbnail: "/uploads/2019/05/28/20190101230942_thumb.jpg"
 images:
 - "/uploads/2019/05/28/20190101230942.jpg"
