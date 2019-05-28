@@ -3,7 +3,7 @@ tags:
 - office
 - shop
 title: Project 1
-thumbnail: "/uploads/2019/05/14/thumb-1.png"
+thumbnail: "/uploads/2019/05/28/20190101230942_thumb.jpg"
 images:
 - "/uploads/2019/05/28/20190101230942.jpg"
 - "/uploads/2019/05/28/20190101230906.jpg"
