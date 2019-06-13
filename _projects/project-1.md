@@ -4,11 +4,7 @@ tags:
 - shop
 title: Morn Fashion
 thumbnail: "/uploads/2019/05/28/20190101230942_thumb.jpg"
-images:
-- "/uploads/2019/05/28/20190101230942.jpg"
-- "/uploads/2019/05/28/20190101230906.jpg"
-- "/uploads/2019/05/28/20190101230850jpg.jpg"
-- "/uploads/2019/05/28/20190101230800.jpg"
+images: []
 date: 2019-05-12T16:00:00.000+00:00
 test: []
 category: SHOP
