@@ -11,7 +11,7 @@ images:
 - "/uploads/2019/05/28/20190101230800.jpg"
 date: 2019-05-12T16:00:00.000+00:00
 test: []
-category: Shop
+category: SHOP
 client: MornFashion
 location: 中国广州市海珠区龙腾18电子商务产业园1号楼
 featured: true
