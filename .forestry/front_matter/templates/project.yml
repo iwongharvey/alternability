@@ -11,13 +11,14 @@ fields:
   config:
     required: false
     options:
-    - Shop
-    - Restraurant
-    - Hotel
-    - Brand
-    - House
-    - Building
-    - Products
+    - SHOP
+    - HOTEL
+    - HOUSE
+    - OFFICE
+    - RESTAURANT
+    - BRANDING
+    - BUILDING
+    - PRODUCTS
     source:
       type: simple
       section: 
@@ -99,6 +100,6 @@ fields:
   description: To show in front page
   default: false
 pages:
-- _projects/project-1.md
-- _projects/project-2.md
 - _projects/project-3.md
+- _projects/project-2.md
+- _projects/project-1.md
