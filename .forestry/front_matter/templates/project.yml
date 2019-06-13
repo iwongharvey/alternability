@@ -26,12 +26,12 @@ fields:
       path: 
   label: Category
   description: Project Category
-- name: thumbnail
-  label: Thumbnail
+- name: cover
+  label: Cover
   type: file
-  description: Thumbnail Image at 70 pixels by 70 pixels
   hidden: false
   default: ''
+  description: 封面图
 - name: images
   type: image_gallery
   config: {}
