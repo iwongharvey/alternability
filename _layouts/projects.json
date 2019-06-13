@@ -7,7 +7,7 @@
       "id": "{{ project.id | split: "/" | last }}",
       "date": "{{ project.date }}",
       "title": "{{ project.title }}",
-      "thumbnail": "{{ project.thumbnail }}",
+      "cover": "{{ project.cover }}",
       "images": [
         {% for image in project.images %}
         "{{ image }}"{% if image != project.images.last %},{% endif %}
