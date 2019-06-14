@@ -14,6 +14,11 @@
         {% endfor %}
       ],
       "category": "{{ project.category }}",
+      "tags": [
+        {% for tag in project.tag %}
+        "{{ tag }}"{% if tag != project.tag.last %},{% endif %}
+        {% endfor %}
+      ],
       "client": "{{ project.client }}",
       "location": "{{ project.location }}",
       "area": "{{ project.area }}",
