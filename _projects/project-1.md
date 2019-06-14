@@ -22,6 +22,9 @@ construction_date: 2018-06-30T16:00:00.000+00:00
 designer: HARVEYWONG
 constructor: 姚康军
 cover: "/uploads/2019/06/13/morn-cover.jpg"
+tag:
+- Innovation office
+- Clothing showroom
 
 ---
 This is project 1
