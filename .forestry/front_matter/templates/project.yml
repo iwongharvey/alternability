@@ -99,6 +99,11 @@ fields:
   label: Featured
   description: To show in front page
   default: false
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
+  description: 商业分类
 pages:
 - _projects/project-3.md
 - _projects/project-2.md
