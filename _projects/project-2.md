@@ -17,5 +17,8 @@ construction_date: 2019-03-03T16:00:00.000+00:00
 constructor: 姚康军2
 designer: HARVEYWONG
 cover: "/uploads/2019/06/13/showgirl-cover.jpg"
+tag:
+- Interesting buildings
+- Elaborate Residential
 
 ---
