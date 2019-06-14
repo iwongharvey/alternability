@@ -16,5 +16,8 @@ constructor: 姚康军
 construction_date: 2019-02-16T16:00:00.000+00:00
 designer: HARVEYWONG
 cover: "/uploads/2019/06/13/ylyg-cover.jpg"
+tag:
+- Restaurant & coffee & tea
+- Hotle & inn
 
 ---
