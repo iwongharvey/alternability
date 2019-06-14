@@ -24,7 +24,7 @@ constructor: 姚康军
 cover: "/uploads/2019/06/13/morn-cover.jpg"
 tag:
 - Innovation office
-- Clothing showroom
+- Hotle & inn
 
 ---
 This is project 1
