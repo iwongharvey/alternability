@@ -5,7 +5,7 @@ tag: []
 title: MORNFASION Ⅱ
 cover: "/uploads/2019/06/18/微信图片_20190616171711.jpg"
 images: []
-client: mornfasion office
+client: MORNFASION COMPANY
 location: GuangZhou
 area: "500"
 designer: HARVEYWONG
