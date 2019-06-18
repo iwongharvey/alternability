@@ -2,29 +2,28 @@
 tags:
 - office
 - shop
-title: Morn Fashion
+title: MORNFASION Ⅰ
 thumbnail: "/uploads/2019/05/28/20190101230942_thumb.jpg"
 images:
 - "/uploads/2019/06/13/morn-01.jpg"
 - "/uploads/2019/06/13/morn-02.jpg"
-date: 2019-05-12T16:00:00.000+00:00
+date: 2018-06-01 00:00:00 +0800
 test: []
 category: OFFICE
-client: MornFashion
-location: 中国广州市海珠区龙腾18电子商务产业园1号楼
+client: 'mornfasion office '
+location: GuangZhou
 featured: true
-area: "400"
+area: "500"
 leader: HARVEYWONG
-members: HARVEYWONG, XJX
-construction: 玮度装饰
+members: XJX
+construction: WDD
 constructior: 姚康军
-construction_date: 2018-06-30T16:00:00.000+00:00
+construction_date: 2018-07-01 00:00:00 +0800
 designer: HARVEYWONG
-constructor: 姚康军
+constructor: Yao Kanjun
 cover: "/uploads/2019/06/13/morn-cover.jpg"
 tag:
 - Innovation office
-- Hotle & inn
 
 ---
 This is project 1
