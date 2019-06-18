@@ -3,8 +3,9 @@ category: OFFICE
 date: 2018-06-01 23:37:33 +0800
 tag: []
 title: MORNFASION Ⅱ
-cover: "/uploads/2019/06/18/image-1.png"
-images: []
+cover: "/uploads/2019/06/18/微信图片_20190616171711.jpg"
+images:
+- "/uploads/2019/06/18/微信图片_20190616171711.jpg"
 client: mornfasion office
 location: GuangZhou
 area: "500"
