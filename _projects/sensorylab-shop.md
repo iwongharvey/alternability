@@ -1,6 +1,6 @@
 ---
 category: SHOP
-date: 2015-06-01 10:00:06 +0800
+date: 2015-06-01T02:00:06.000+00:00
 tag:
 - Clothing showroom
 title: SENSORYLAB SHOP
@@ -12,7 +12,8 @@ area: "200"
 designer: HARVEYWONG
 members: ''
 construction: ''
-construction_date: 2015-06-30 00:00:00 +0800
+construction_date: 2015-06-29T16:00:00.000+00:00
 featured: false
+published: false
 
 ---
