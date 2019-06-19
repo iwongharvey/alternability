@@ -6,7 +6,7 @@ thumbnail: "/uploads/2019/05/14/thumb-2.png"
 client: MORNFASION
 location: Guangzhou
 images:
-- "/uploads/2019/06/13/showgirl-01.jpg"
+- "/uploads/2019/06/19/2018_11_16_16_01_IMG_3376_看图王.JPG"
 - "/uploads/2019/06/19/2019_06_11_16_27_IMG_3346.JPG"
 - "/uploads/2019/06/19/2018_09_14_12_58_IMG_3343.JPG"
 - "/uploads/2019/06/19/2019_06_11_17_20_IMG_3352.JPG"
