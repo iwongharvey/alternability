@@ -10,7 +10,7 @@ images:
 - "/uploads/2019/06/19/微信图片_20190101230800_爱奇艺_看图王_看图王.jpg"
 - "/uploads/2019/06/19/微信图片_20190614012434_看图王.jpg"
 - "/uploads/2019/06/19/微信图片_20190619173853.jpg"
-date: 2018-06-01 00:00:00 +0800
+date: 2018-05-31T16:00:00.000+00:00
 test: []
 category: OFFICE
 client: 'mornfasion office '
@@ -21,7 +21,7 @@ leader: HARVEYWONG
 members: XJX
 construction: WDD
 constructior: 姚康军
-construction_date: 2018-07-01 00:00:00 +0800
+construction_date: 2018-06-30T16:00:00.000+00:00
 designer: HARVEYWONG
 constructor: Yao Kanjun
 cover: "/uploads/2019/06/13/morn-cover.jpg"
@@ -29,7 +29,7 @@ tag:
 - Innovation office
 
 ---
-_Something beautiful, is something suspicious Einbahnstrasse。—— Walter Benjamin \[Germany\]_ 
+_Something beautiful, is something suspicious Einbahnstrasse。—— Walter Benjamin \[Germany\]_
 
 _在一切有理由被称之为美的东西上面，_
 
