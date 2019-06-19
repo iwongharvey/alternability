@@ -105,6 +105,7 @@ fields:
   label: tag
   description: 商业分类
 pages:
+- _projects/lin-house.md
 - _projects/lin-hotel.md
 - _projects/cdh-lighting.md
 - _projects/hay.md
