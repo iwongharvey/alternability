@@ -6,7 +6,6 @@ title: MORNFASION Ⅰ
 thumbnail: "/uploads/2019/05/28/20190101230942_thumb.jpg"
 images:
 - "/uploads/2019/06/13/morn-01.jpg"
-- "/uploads/2019/06/13/morn-02.jpg"
 date: 2018-06-01 00:00:00 +0800
 test: []
 category: OFFICE
