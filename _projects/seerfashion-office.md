@@ -5,7 +5,8 @@ tag:
 - Innovation office
 title: SEERFASHION OFFICE
 cover: "/uploads/2019/06/19/tvqXv8862mUfJ2Tx.jpg"
-images: []
+images:
+- "/uploads/2019/06/19/tvqXv8862mUfJ2Tx.jpg"
 client: seerfashion office
 location: GuangZhou
 area: "250"
