@@ -1,6 +1,6 @@
 ---
 category: SHOP
-date: 2018-01-01 10:22:07 +0800
+date: 2018-01-01T02:22:07.000+00:00
 tag:
 - Exhibition hall & furniture
 title: HAY
@@ -14,5 +14,6 @@ members: ''
 construction: ''
 construction_date: 
 featured: false
+published: false
 
 ---
