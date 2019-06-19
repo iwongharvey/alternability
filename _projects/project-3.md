@@ -18,6 +18,5 @@ designer: HARVEYWONG
 cover: "/uploads/2019/06/13/ylyg-cover.jpg"
 tag:
 - Restaurant & coffee & tea
-- Hotle & inn
 
 ---
