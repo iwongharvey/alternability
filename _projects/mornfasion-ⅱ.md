@@ -5,7 +5,8 @@ tag:
 - Innovation office
 title: MORNFASION Ⅱ
 cover: "/uploads/2019/06/18/微信图片_20190616171711.jpg"
-images: []
+images:
+- "/uploads/2019/06/19/W9wEXAU7XzoMY926.jpg"
 client: MORNFASION COMPANY
 location: GuangZhou
 area: "500"
