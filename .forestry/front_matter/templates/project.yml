@@ -49,7 +49,7 @@ fields:
 - name: area
   type: text
   config:
-    required: true
+    required: false
   label: Area
 - name: designer
   type: text
