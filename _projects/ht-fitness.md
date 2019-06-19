@@ -14,6 +14,6 @@ designer: HARVEYWONG
 members: AZ
 construction: ''
 construction_date: 
-featured: true
+featured: false
 
 ---
