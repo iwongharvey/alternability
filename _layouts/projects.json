@@ -25,7 +25,7 @@
       "designer": "{{ project.designer }}",
       "members": "{{ project.members }}",
       "construction": "{{ project.construction }}",
-      "constructor": "{{ project.constructior }}",
+      "constructor": "{{ project.constructor }}",
       "construction_date": "{{ project.construction_date }}",
       "featured": {% if project.featured %}true{% else %}false{% endif %}
     }{% if project != site.projects.last %},{% endif %}
