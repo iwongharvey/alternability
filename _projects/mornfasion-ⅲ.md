@@ -1,6 +1,6 @@
 ---
 category: OFFICE
-date: 2019-06-19T01:33:42.000+00:00
+date: 2018-07-08 09:33:42 +0800
 tag:
 - Innovation office
 title: MORNFASION Ⅲ
@@ -20,7 +20,7 @@ area: "500"
 designer: HARVEYWONG
 members: XJX
 construction: WDD
-construction_date: 2018-07-01T16:00:00.000+00:00
+construction_date: 2018-09-28 00:00:00 +0800
 featured: true
 constructor: Yao Kanjun
 
