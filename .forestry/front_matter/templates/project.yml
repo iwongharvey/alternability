@@ -105,6 +105,7 @@ fields:
   label: tag
   description: 商业分类
 pages:
+- _projects/mornfasion-vi.md
 - _projects/mornfasion-ⅲ.md
 - _projects/mornfasion-ⅱ.md
 - _projects/project-3.md
