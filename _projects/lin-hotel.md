@@ -1,6 +1,6 @@
 ---
 category: HOTEL
-date: 2018-05-01 10:59:16 +0800
+date: 2018-05-01T02:59:16.000+00:00
 tag:
 - Hotle & inn
 title: LIN HOTEL
@@ -14,5 +14,6 @@ members: Atao
 construction: ''
 construction_date: 
 featured: false
+published: false
 
 ---
