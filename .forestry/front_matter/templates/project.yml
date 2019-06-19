@@ -105,6 +105,7 @@ fields:
   label: tag
   description: 商业分类
 pages:
+- _projects/ht-fitness-vi.md
 - _projects/ht-fitness.md
 - _projects/one-one-vi.md
 - _projects/sensorylab-shop.md
