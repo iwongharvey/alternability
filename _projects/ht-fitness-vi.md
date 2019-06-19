@@ -1,6 +1,6 @@
 ---
 category: SHOP
-date: 2019-05-01 10:19:25 +0800
+date: 2019-05-01T02:19:25.000+00:00
 tag:
 - " Shopmall & entertainment & Sports"
 title: HT fitness VI
@@ -14,5 +14,6 @@ members: ''
 construction: ''
 construction_date: 
 featured: false
+published: false
 
 ---
