@@ -1,5 +1,5 @@
 ---
-category: BUILDING
+category: BRANDING
 date: 2016-07-01 10:27:38 +0800
 tag:
 - Exhibition hall & furniture
