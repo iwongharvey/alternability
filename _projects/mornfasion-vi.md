@@ -15,6 +15,5 @@ construction: WDD
 constructor: Yao Kanjun
 construction_date: 
 featured: true
-published: false
 
 ---
