@@ -1,10 +1,10 @@
 ---
 category: RESTAURANT
 date: 2017-08-31T23:57:24.000+00:00
-title: ONE & ONE
+title: ONE & ONE cafe
 thumbnail: "/uploads/2019/05/14/thumb-3.png"
-client: MornFashion
-location: Guangzhou
+client: ONE&ONE cafe
+location: Guangzhou,TianHe
 images:
 - "/uploads/2019/06/13/ylyg-01.jpg"
 - "/uploads/2019/06/20/c_View02ps.jpg"
@@ -17,7 +17,7 @@ images:
 featured: true
 area: "120"
 leader: HARVEYWONG
-members: AD、AZ
+members: Ade、AZ
 construction: ''
 constructor: ''
 construction_date: 
