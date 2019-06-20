@@ -6,6 +6,7 @@ tag:
 title: ONE&ONE VI
 cover: "/uploads/2019/06/19/Gk2yRHYveckqOlXt.jpg"
 images:
+- "/uploads/2019/06/13/ylyg-01.jpg"
 - "/uploads/2019/06/20/c_View11.jpg"
 - "/uploads/2019/06/20/c4d渲染图13.jpg"
 client: ONE&ONE cafe
