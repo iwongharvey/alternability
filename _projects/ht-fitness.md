@@ -8,6 +8,7 @@ cover: "/uploads/2019/06/19/AMgsBtrydm40jP1Z.png"
 images:
 - "/uploads/2019/06/19/CxHU1MgXfxUf3UNq.jpg"
 - "/uploads/2019/06/20/6-1.jpg"
+- "/uploads/2019/06/20/顾客休闲区 前台.jpg"
 client: HT fitness
 location: GuangZhou,Nan Sha
 area: "200"
