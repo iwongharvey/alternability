@@ -1,19 +1,26 @@
 ---
 category: RESTAURANT
-date: 2017-09-01 07:57:24 +0800
+date: 2017-08-31T23:57:24.000+00:00
 title: ONE & ONE
 thumbnail: "/uploads/2019/05/14/thumb-3.png"
 client: MornFashion
 location: Guangzhou
 images:
 - "/uploads/2019/06/13/ylyg-01.jpg"
+- "/uploads/2019/06/20/c_View02ps.jpg"
+- "/uploads/2019/06/20/c_View01ps.jpg"
+- "/uploads/2019/06/20/c_View04.jpg"
+- "/uploads/2019/06/20/c_View05.jpg"
+- "/uploads/2019/06/20/c_View06.jpg"
+- "/uploads/2019/06/20/c_View07.jpg"
+- "/uploads/2019/06/20/c_View08.jpg"
 featured: true
 area: "120"
 leader: HARVEYWONG
-members: HARVEYWONG
+members: AD、AZ
 construction: ''
 constructor: ''
-construction_date: 2017-09-01 00:00:00 +0800
+construction_date: 
 designer: HARVEYWONG
 cover: "/uploads/2019/06/13/ylyg-cover.jpg"
 tag:
