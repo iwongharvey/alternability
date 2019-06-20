@@ -17,5 +17,6 @@ members: AZ
 construction: ''
 construction_date: 
 featured: false
+published: false
 
 ---
