@@ -10,7 +10,6 @@ images:
 - "/uploads/2019/06/20/c_View02ps.jpg"
 - "/uploads/2019/06/20/c_View01ps.jpg"
 - "/uploads/2019/06/20/c_View04.jpg"
-- "/uploads/2019/06/20/c_View05.jpg"
 - "/uploads/2019/06/20/c_View06.jpg"
 - "/uploads/2019/06/20/c_View07.jpg"
 - "/uploads/2019/06/20/c_View08.jpg"
