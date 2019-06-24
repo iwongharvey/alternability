@@ -12,6 +12,7 @@ images:
 - "/uploads/2019/06/19/2019_06_11_17_20_IMG_3352.JPG"
 - "/uploads/2019/06/19/0X4A0497_看图王.jpg"
 - "/uploads/2019/06/19/2019_06_11_17_21_IMG_3353.JPG"
+- "/uploads/2019/06/24/外立面图1-1_看图王.jpg"
 featured: true
 area: "500"
 leader: HARVEYWONG
