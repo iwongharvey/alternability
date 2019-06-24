@@ -7,13 +7,11 @@ title: SEERFASHION OFFICE
 cover: "/uploads/2019/06/19/tvqXv8862mUfJ2Tx.jpg"
 images:
 - "/uploads/2019/06/24/IMG_4474-修正.jpg"
-- "/uploads/2019/06/24/IMG_4476-修正.jpg"
 - "/uploads/2019/06/24/IMG_4491-修正.jpg"
 - "/uploads/2019/06/24/IMG_4486-修正2.jpg"
 - "/uploads/2019/06/24/IMG_7796-修正2.jpg"
 - "/uploads/2019/06/24/IMG_7772-修正.jpg"
 - "/uploads/2019/06/24/IMG_7797-修正.jpg"
-- "/uploads/2019/06/24/IMG_7792-修正2.jpg"
 - "/uploads/2019/06/24/新港82办公室外立面（方案二）.jpg"
 - "/uploads/2019/06/24/01-01.jpg"
 - "/uploads/2019/06/24/01-02.jpg"
