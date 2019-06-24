@@ -13,6 +13,7 @@ images:
 - "/uploads/2019/06/20/c_View06.jpg"
 - "/uploads/2019/06/20/c_View07.jpg"
 - "/uploads/2019/06/20/c_View08.jpg"
+- "/uploads/2019/06/24/未标题-2-01.jpg"
 featured: true
 area: "120"
 leader: HARVEYWONG
