@@ -19,7 +19,6 @@
         "{{ tag }}"{% if tag != project.tag.last %},{% endif %}
         {% endfor %}
       ],
-      "content": "{{ project.content }}",
       "location": "{{ project.location }}",
       "area": "{{ project.area }}",
       "designer": "{{ project.designer }}",
