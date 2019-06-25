@@ -19,6 +19,7 @@
         "{{ tag }}"{% if tag != project.tag.last %},{% endif %}
         {% endfor %}
       ],
+      "description": "{{ project.description }}",
       "location": "{{ project.location }}",
       "area": "{{ project.area }}",
       "designer": "{{ project.designer }}",
