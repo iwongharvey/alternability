@@ -104,7 +104,7 @@ fields:
   default: []
   label: tag
   description: 商业分类
-- name: content
+- name: description
   type: textarea
   default: ''
   config:
@@ -112,7 +112,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Content
+  label: Description
   description: 内容描述
 pages:
 - _projects/project-1.md
