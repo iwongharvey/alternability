@@ -20,6 +20,7 @@
         {% endfor %}
       ],
       "description": "{{ project.description }}",
+      "client": "{{ project.client }}",
       "location": "{{ project.location }}",
       "area": "{{ project.area }}",
       "designer": "{{ project.designer }}",
