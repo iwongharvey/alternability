@@ -1,6 +1,6 @@
 ---
 category: OFFICE
-date: 2018-07-07 09:44:05 +0800
+date: 2018-07-07T01:44:05.000+00:00
 tag:
 - Innovation office
 title: MORNFASION VI
@@ -21,3 +21,4 @@ construction_date:
 featured: true
 
 ---
+test
