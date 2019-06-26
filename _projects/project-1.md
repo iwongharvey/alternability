@@ -10,7 +10,7 @@ images:
 - "/uploads/2019/06/19/微信图片_20190101230800_爱奇艺_看图王_看图王.jpg"
 - "/uploads/2019/06/19/微信图片_20190614012434_看图王.jpg"
 - "/uploads/2019/06/24/外立面图2-1_看图王.jpg"
-date: 2018-07-09T16:00:00.000+00:00
+date: 2018-07-10 00:00:00 +0800
 test: []
 category: OFFICE
 client: 'mornfasion office '
@@ -37,6 +37,14 @@ content: |-
   Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate
   eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
   enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
-description: ''
+description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+  ligulaeget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturientmontes,
+  nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesqueeu, pretium
+  quis, sem. Nulla consequat massa quis enim. Donec pede justo,fringilla vel, aliquet
+  nec, vulputate eget, arcu. In enim justo, rhoncus ut,imperdiet a, venenatis vitae,
+  justo. Nullam dictum felis eu pede mollis pretium.Integer tincidunt. Cras dapibus.
+  Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula,
+  porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in,
+  viverra quis, feugiat a,
 
 ---
