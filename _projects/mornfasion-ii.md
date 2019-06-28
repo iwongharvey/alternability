@@ -11,9 +11,9 @@ images:
 - "/uploads/2019/06/19/0X4A0363_看图王.jpg"
 - "/uploads/2019/06/19/0X4A0343_看图王.jpg"
 - "/uploads/2019/06/19/0X4A0497_看图王.jpg"
-- "/uploads/2019/06/28/平面图-03_看图王.jpg"
-- "/uploads/2019/06/28/平面图-01_看图王.jpg"
-- "/uploads/2019/06/28/平面图-02_看图王.jpg"
+- "/uploads/2019/06/28/平面图22[转换]-03_看图王.jpg"
+- "/uploads/2019/06/28/平面图22[转换]-01_看图王.jpg"
+- "/uploads/2019/06/28/平面图22[转换]-02_看图王.jpg"
 client: MORNFASION COMPANY
 location: GuangZhou
 area: "500"
