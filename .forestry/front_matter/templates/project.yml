@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: Title
+- name: title_cn
+  type: text
+  config:
+    required: true
+  label: 名称
 - name: category
   type: select
   default: []
@@ -41,11 +46,21 @@ fields:
   config:
     required: true
   label: Client
+- name: client_cn
+  type: text
+  config:
+    required: true
+  label: 客户
 - name: location
   type: text
   config:
     required: true
   label: Location
+- name: location_cn
+  type: text
+  config:
+    required: true
+  label: 项目地点
 - name: area
   type: text
   config:
@@ -57,24 +72,44 @@ fields:
     required: false
   label: Designer
   description: 设计师
+- name: designer_cn
+  type: text
+  config:
+    required: true
+  label: 主设计师
 - name: members
   type: text
   config:
     required: false
   label: Members
   description: 设计团队
+- name: members_cn
+  type: text
+  config:
+    required: false
+  label: 设计团队
 - name: construction
   type: text
   config:
     required: false
   label: Construction
   description: 施工单位
+- name: construction_cn
+  type: text
+  config:
+    required: false
+  label: 施工单位
 - name: constructor
   type: text
   config:
     required: false
   label: Constructor
   description: 施工团队
+- name: constructor_cn
+  type: text
+  config:
+    required: false
+  label: 施工团队
 - name: date
   type: datetime
   label: Date
@@ -114,6 +149,15 @@ fields:
       format: markdown
   label: Description
   description: 内容描述
+- name: description_cn
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 描述
 pages:
 - _projects/project-1.md
 - _projects/jh-house.md
