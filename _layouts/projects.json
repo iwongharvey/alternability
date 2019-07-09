@@ -7,6 +7,7 @@
       "id": "{{ project.id | split: "/" | last }}",
       "date": "{{ project.date }}",
       "title": "{{ project.title }}",
+      "title_cn": "{{ project.title_cn }}",
       "cover": "{{ project.cover }}",
       "images": [
         {% for image in project.images %}
@@ -20,13 +21,20 @@
         {% endfor %}
       ],
       "description": "{{ project.description }}",
+      "description_cn": "{{ project.description_cn }}",
       "client": "{{ project.client }}",
+      "client_cn": "{{ project.client_cn }}",
       "location": "{{ project.location }}",
+      "location_cn": "{{ project.location_cn }}",
       "area": "{{ project.area }}",
       "designer": "{{ project.designer }}",
+      "designer_cn": "{{ project.designer_cn }}",
       "members": "{{ project.members }}",
+      "members_cn": "{{ project.members_cn }}",
       "construction": "{{ project.construction }}",
+      "construction_cn": "{{ project.construction_cn }}",
       "constructor": "{{ project.constructor }}",
+      "constructor_cn": "{{ project.constructor_cn }}",
       "construction_date": "{{ project.construction_date }}",
       "featured": {% if project.featured %}true{% else %}false{% endif %}
     }{% if project != site.projects.last %},{% endif %}
