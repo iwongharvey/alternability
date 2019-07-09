@@ -46,5 +46,13 @@ description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean co
   Vivamus elementum semper nisi. Aenean vulputateeleifend tellus. Aenean leo ligula,
   porttitor eu, consequat vitae, eleifend ac,enim. Aliquam lorem ante, dapibus in,
   viverra quis, feugiat a,
+title_cn: 明日风尚
+client_cn: 明日风尚
+location_cn: 广州
+designer_cn: HARVEYWONG
+members_cn: XJX
+construction_cn: WDD
+constructor_cn: 姚康军
+description_cn: 中文描述
 
 ---
