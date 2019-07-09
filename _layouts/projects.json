@@ -21,7 +21,7 @@
         {% endfor %}
       ],
       "description": "{{ project.description }}",
-      "description_cn": "{{ project.description_cn }}",
+      "description_cn": "{{ project.description_cn | replace: '"', '\"' }}",
       "client": "{{ project.client }}",
       "client_cn": "{{ project.client_cn }}",
       "location": "{{ project.location }}",
