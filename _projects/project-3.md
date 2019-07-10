@@ -3,7 +3,7 @@ category: RESTAURANT
 date: 2017-08-31T23:57:24.000+00:00
 title: ONE & ONE cafe
 thumbnail: "/uploads/2019/05/14/thumb-3.png"
-client: ONE&ONE cafe
+client: 广州文脉投资发展有限公司
 location: Guangzhou,TianHe
 images:
 - "/uploads/2019/06/13/ylyg-01.jpg"
