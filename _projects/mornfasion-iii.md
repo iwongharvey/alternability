@@ -11,7 +11,7 @@ images:
 - "/uploads/2019/06/19/微信图片_20190618190857.jpg"
 - "/uploads/2019/06/19/微信图片_20190620010155.jpg"
 - "/uploads/2019/06/19/2018_09_14_15_01_IMG_3337.JPG"
-client: mornfasion office
+client: MORNFASION COMPANY
 location: GuangZhou
 area: "500"
 designer: HARVEYWONG
