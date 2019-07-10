@@ -9,7 +9,7 @@ images:
 - "/uploads/2019/06/13/ylyg-01.jpg"
 - "/uploads/2019/06/20/c_View11.jpg"
 - "/uploads/2019/06/20/c4d渲染图13.jpg"
-client: 广州文脉投资发展有限公司
+client: WENMAI COMPANY
 location: GuangZhou
 area: "130"
 designer: HARVEYWONG
