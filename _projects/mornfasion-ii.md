@@ -23,5 +23,19 @@ construction: WDD
 constructor: Yao Kanjun
 construction_date: 2018-09-28T16:00:00.000+00:00
 featured: true
+description_cn: |-
+  不合时宜、好奇心
+
+
+  经验是个好东西也是一个坏东西。好奇心是一切设计艺术的由来。打破日常经验教条里固有思维禁锢，创造一种“不合时宜”的视觉引爆点，是打造场景性与外向空间的核心出发点。
+
+  空间造型营造上，无啰嗦废话，使用基本几何体。简洁明快。
+title_cn: 明日风尚 02
+client_cn: 明日风尚服饰有限公司
+location_cn: 广州，海珠区
+designer_cn: 王晗文
+members_cn: XJX
+construction_cn: 玮度装饰
+constructor_cn: 姚康军
 
 ---
