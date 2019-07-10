@@ -19,6 +19,15 @@ construction: ''
 constructor: ''
 construction_date: 
 featured: true
+title_cn: 明日风尚品牌VI
+client_cn: 明日风尚服饰有限公司
+location_cn: 广州，海珠区
+designer_cn: 王晗文
+members_cn: ''
+construction_cn: ''
+constructor_cn: ''
+description: ''
+description_cn: 空间导视设计与极简的空间设计语言统一，将明亮的过道空间与企业文化语境结合，空间体感愉悦，并激励人心。
 
 ---
-test
+测试
