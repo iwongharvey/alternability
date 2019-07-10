@@ -25,5 +25,14 @@ designer: HARVEYWONG
 cover: "/uploads/2019/06/13/showgirl-cover.jpg"
 tag:
 - Clothing showroom
+title_cn: 微笑女孩
+client_cn: 明日风尚服饰有限公司
+location_cn: 广州，海珠区
+designer_cn: 王晗文
+members_cn: XJX
+construction_cn: 玮度装饰
+constructor_cn: 姚康军
+description: ''
+description_cn: ''
 
 ---

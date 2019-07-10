@@ -159,6 +159,7 @@ fields:
       format: markdown
   label: 描述
 pages:
+- _projects/project-2.md
 - _projects/project-1.md
 - _projects/jh-house.md
 - _projects/lin-house.md
@@ -172,4 +173,3 @@ pages:
 - _projects/seerfashion-office.md
 - _projects/mornfasion-vi.md
 - _projects/project-3.md
-- _projects/project-2.md
