@@ -15,5 +15,14 @@ members: ''
 construction: ''
 construction_date: 
 featured: false
+title_cn: 潮灯荟
+client_cn: 潮灯荟灯饰有限公司
+location_cn: 广州
+designer_cn: 王晗文
+members_cn: ''
+construction_cn: ''
+constructor_cn: ''
+description: ''
+description_cn: ''
 
 ---
