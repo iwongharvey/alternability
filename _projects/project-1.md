@@ -40,7 +40,7 @@ content: |-
 description: ''
 title_cn: 明日风尚 Ⅰ
 client_cn: 明日风尚
-location_cn: 广州
+location_cn: 广州，海珠区
 designer_cn: 王晗文
 members_cn: XJX
 construction_cn: 玮度装饰
