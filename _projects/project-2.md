@@ -3,7 +3,7 @@ category: SHOP
 date: 2018-07-05T23:47:02.000+00:00
 title: SIMLEGIRL
 thumbnail: "/uploads/2019/05/14/thumb-2.png"
-client: MORNFASION
+client: MORNFASION COMPANY
 location: Guangzhou
 images:
 - "/uploads/2019/06/24/微信图片_20190101230850_看图王.jpg"
