@@ -1,9 +1,9 @@
 ---
 category: RESTAURANT
 date: 2017-08-31T23:57:24.000+00:00
-title: ONE & ONE cafe
+title: ONE & ONE CAFE
 thumbnail: "/uploads/2019/05/14/thumb-3.png"
-client: 广州文脉投资发展有限公司
+client: 'WENMAI COMPANY '
 location: Guangzhou,TianHe
 images:
 - "/uploads/2019/06/13/ylyg-01.jpg"
