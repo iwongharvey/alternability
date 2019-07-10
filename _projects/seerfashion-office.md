@@ -21,8 +21,17 @@ area: "250"
 designer: HARVEYWONG
 members: ''
 construction: WDD
-constructor: Yao Kanjun
+constructor: HuangyaXiao
 construction_date: 2015-07-09T16:00:00.000+00:00
 featured: false
+title_cn: 先见时尚办公
+client_cn: 先见时尚服饰
+location_cn: 广州，海珠区
+designer_cn: 王晗文
+members_cn: ''
+construction_cn: 玮度装饰
+constructor_cn: 黄亚嚣
+description: ''
+description_cn: ''
 
 ---
