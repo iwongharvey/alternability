@@ -13,7 +13,7 @@ images:
 date: 2018-07-09T16:00:00.000+00:00
 test: []
 category: OFFICE
-client: 'mornfasion office '
+client: " MORNFASION COMPANY"
 location: GuangZhou
 featured: true
 area: "500"
