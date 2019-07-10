@@ -17,5 +17,14 @@ members: ''
 construction: ''
 construction_date: 
 featured: false
+title_cn: 一楼一咖
+client_cn: 广州文脉投资发展有限公司
+location_cn: 广州，天河区
+designer_cn: 王晗文
+members_cn: ''
+construction_cn: ''
+constructor_cn: ''
+description: ''
+description_cn: ''
 
 ---
