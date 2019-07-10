@@ -15,7 +15,7 @@ images:
 - "/uploads/2019/06/24/新港82办公室外立面（方案二）.jpg"
 - "/uploads/2019/06/24/01-01.jpg"
 - "/uploads/2019/06/24/01-02.jpg"
-client: seerfashion office
+client: SEERFASHION COMPANY
 location: GuangZhou
 area: "250"
 designer: HARVEYWONG
