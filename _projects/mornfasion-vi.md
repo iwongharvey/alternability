@@ -8,24 +8,24 @@ cover: "/uploads/2019/06/19/微信图片_20190616171243.jpg"
 images:
 - "/uploads/2019/06/19/微信图片_20190619173853.jpg"
 - "/uploads/2019/06/19/2018_09_14_15_34_IMG_3334.JPG"
-- "/uploads/2019/06/19/微信图片_20190620010147.jpg"
 - "/uploads/2019/06/19/2018_09_14_16_42_IMG_0517修正_看图王.jpg"
+- "/uploads/2019/06/19/微信图片_20190620010147.jpg"
 client: MORNFASION COMPANY
 location: GuangZhou
-area: ''
+area: "500"
 designer: HARVEYWONG
-members: ''
-construction: ''
-constructor: ''
+members: XJX
+construction: WDD
+constructor: Yao Kanjun
 construction_date: 
 featured: true
 title_cn: 明日风尚品牌VI
 client_cn: 明日风尚服饰有限公司
 location_cn: 广州，海珠区
 designer_cn: 王晗文
-members_cn: ''
-construction_cn: ''
-constructor_cn: ''
+members_cn: XJX
+construction_cn: 玮度装饰
+constructor_cn: 姚康军
 description: |-
   For the display area, the designer creates a brand stores way which hides the hanger for implant fixation. In addition to the display function, it is convenient to communicate with customers during the meeting or live broadcasting.
 
