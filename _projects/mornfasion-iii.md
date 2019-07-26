@@ -34,5 +34,20 @@ description_cn: |-
   消解杂碍柱子，梳理功能、动线，结合采光通风铺设空间体块，进而用数理逻辑、基准线等，建立空间秩序。至此，空间的骨架昭然若揭。由骨架到表皮，最后解构企业文化，消解单调，消解焦虑，铸入企业信心与精神文化。
 
   传统的格子办公泯灭人性，全开放式办公如工厂流水线。事物总由一个极端到另一极端轮回交替。稍微的平衡感弥足珍贵。在梳理人事物工作流程关系，公共办公区最后采用“按组半开放”的空间分区。除财务室及老板室外，每个部门组之间没有门的物理区隔，有节奏利用空间错落，达到既隐又开放目的效果。精准地把握日常办公者心理感官与高效能办公之间的平衡。
+description: "Dissolution, Deconstruction and interaction \n\nEliminated the interference
+  columns, sorted out the relation between function and circulation, placed the massing
+  according to natural lighting and ventilation, so as to establish the space order
+  with baseline and mathematical logic. Now, the spatial skeleton is clear. From skeleton
+  to the skin, and to deconstruct the company culture, the design eliminates anxiety,
+  reflecting confidence and spiritual culture of the company in the physical space.\n\nTraditional
+  checker office space is devoid of human nature, however, fully open office space
+  gives a feeling of a factory assembly line. Things always go from one extreme to
+  another. Balance is appreciated. Sorted out the workflow relationship between things
+  and people, the public office area finally adopted the space partition of \"semi-open
+  by work group\". Except financial office and boss’s office, there are no doors or
+  other physical isolation between different groups, thus the scattered space could
+  be utilized rhythmically, achieve the aim of keeping opening and ensuring privacy
+  at the same time. Accurately balanced psychological senses and efficiency of office
+  workers."
 
 ---
