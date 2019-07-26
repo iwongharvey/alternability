@@ -37,7 +37,15 @@ content: |-
   Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate
   eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
   enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,
-description: ''
+description: |-
+  Openness, Scenario, Interactivity
+
+
+  Fragmentation and diversification of information, elimination of authority, raising value of personal discourse, etc. The widely application of digital media aroused a new revolutionary among the traditional offline terminal market. The change of marketing status determines the change of physical space.
+
+  Mornfasion is a female dress design and production enterprise rooted in Guangzhou, for nearly 20 years. How to break through the thought pattern of habitual clothing enterprise, and to bring innovative design into the new office space?
+
+  When the space returns to the spiritual concerns, it’s the sense of space character itself. Designers put forward to create a "opening, contextualized and interacting" new office space, which meets the future development direction of Mornfasion  “Beyond the clothing field and embrace the variety of life style”. Thus, Mornfasion  commission “Alternability Design” to bring bold transformation to the new office space.
 title_cn: 明日风尚 Ⅰ
 client_cn: 明日风尚
 location_cn: 广州，海珠区
