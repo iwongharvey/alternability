@@ -37,5 +37,12 @@ designer_cn: 王晗文
 members_cn: XJX
 construction_cn: 玮度装饰
 constructor_cn: 姚康军
+description: |-
+  Inappropriate, curiosity
+
+
+  Every coin has two sides, so as experience. Curiosity is the source of inspiration. Surpass the boundary of empiricism to create an ‘inappropriate’ visual tipping point, is the key of embodied nature scenes and extroverted space.
+
+  The new office is located on the ground floor of the industrial park, with its geographical advantage, office space could easily connect with the external environment. Thus, the designer changed the regular size of the doorways and windows to create a 3X3X3 meters, large golden stainless steel box door. It protrudes the building wall and hang on the top of the concrete floor of the entrance garden, which contrast and correspondence with the white exterior walls, windows and the signs. Basic geometric form is used in space design to keep the office simple and clear.
 
 ---
