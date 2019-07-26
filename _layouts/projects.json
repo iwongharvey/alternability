@@ -20,7 +20,6 @@
         "{{ tag }}"{% if tag != project.tag.last %},{% endif %}
         {% endfor %}
       ],
-      "description": "{{ project.description | newline_to_br }}",
       "description_cn": "{{ project.description_cn | newline_to_br }}",
       "client": "{{ project.client }}",
       "client_cn": "{{ project.client_cn }}",
