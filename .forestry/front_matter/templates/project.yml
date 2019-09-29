@@ -159,6 +159,7 @@ fields:
       format: markdown
   label: 描述
 pages:
+- _projects/cs-house.md
 - _projects/jh-house.md
 - _projects/lin-house.md
 - _projects/lin-hotel.md
