@@ -23,7 +23,7 @@ members: cola,chenshuying
 members_cn: 禤锐涛，陈淑英
 construction: WDD
 construction_cn: 玮度装饰
-constructor: ''
+constructor: Yao
 constructor_cn: ''
 construction_date: 2019-09-01 00:00:00 +0800
 featured: false
