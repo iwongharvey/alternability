@@ -13,7 +13,7 @@ images:
 - "/uploads/2019/09/29/未标题-3-01_看图王-2.jpg"
 - "/uploads/2019/09/29/未标题-5-01_看图王-1.jpg"
 client: CS HOUSE
-client_cn: CS
+client_cn: " 小盛"
 location: GuangDong,Maoming
 location_cn: 广东，茂名
 area: "238"
