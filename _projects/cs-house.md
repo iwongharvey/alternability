@@ -6,8 +6,10 @@ title: CS HOUSE
 title_cn: 海边的一套极简居所
 cover: "/uploads/2019/09/29/3 (2)_看图王-1.jpg"
 images:
+- "/uploads/2019/09/29/未标题-1-01_看图王(1).jpg"
 - "/uploads/2019/09/29/未标题-1-01_看图王-1.jpg"
 - "/uploads/2019/09/29/未标题-2-01_看图王-1.jpg"
+- "/uploads/2019/09/29/未标题-1-06_看图王(1).jpg"
 - "/uploads/2019/09/29/未标题-3-01_看图王-2.jpg"
 - "/uploads/2019/09/29/未标题-5-01_看图王-1.jpg"
 client: CS HOUSE
