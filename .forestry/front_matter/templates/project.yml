@@ -159,9 +159,6 @@ fields:
       format: markdown
   label: 描述
 pages:
-- _projects/project-3.md
-- _projects/project-2.md
-- _projects/project-1.md
 - _projects/jh-house.md
 - _projects/lin-house.md
 - _projects/lin-hotel.md
@@ -171,5 +168,8 @@ pages:
 - _projects/ht-fitness.md
 - _projects/one-one-vi.md
 - _projects/sensorylab-shop.md
+- _projects/project-3.md
+- _projects/project-2.md
+- _projects/project-1.md
 - _projects/seerfashion-office.md
 - _projects/mornfasion-vi.md
