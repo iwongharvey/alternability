@@ -24,9 +24,8 @@ construction_cn: 玮度装饰
 constructor: ''
 constructor_cn: ''
 construction_date: 2019-09-01 00:00:00 +0800
-featured: false
+featured: true
 description: ''
 description_cn: ''
-published: false
 
 ---
