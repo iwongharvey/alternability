@@ -13,7 +13,7 @@ images:
 - "/uploads/2019/09/29/未标题-3-01_看图王-2.jpg"
 - "/uploads/2019/09/29/未标题-5-01_看图王-1.jpg"
 client: CS HOUSE
-client_cn: " 小盛"
+client_cn: " 小S"
 location: GuangDong,Maoming
 location_cn: 广东，茂名
 area: "238"
@@ -23,7 +23,7 @@ members: cola,chenshuying
 members_cn: 禤锐涛，陈淑英
 construction: WDD
 construction_cn: 玮度装饰
-constructor: Yao
+constructor: ''
 constructor_cn: ''
 construction_date: 2019-09-01 00:00:00 +0800
 featured: false
