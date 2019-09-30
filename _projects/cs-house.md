@@ -1,6 +1,6 @@
 ---
 category: HOUSE
-date: 2019-08-19 16:08:51 +0800
+date: 2019-08-20 16:08:51 +0800
 tag: []
 title: CS HOUSE
 title_cn: 海边的一套极简居所
