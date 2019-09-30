@@ -1,7 +1,8 @@
 ---
 category: HOUSE
 date: 2019-08-20 16:08:51 +0800
-tag: []
+tag:
+- 'Elaborate Residential     '
 title: CS HOUSE
 title_cn: 海边的一套极简居所
 cover: "/uploads/2019/09/29/3 (2)_看图王-1.jpg"
@@ -25,7 +26,7 @@ construction: WDD
 construction_cn: 玮度装饰
 constructor: ''
 constructor_cn: ''
-construction_date: 2019-09-01 00:00:00 +0800
+construction_date: 2019-09-02 00:00:00 +0800
 featured: false
 description: ''
 description_cn: ''
