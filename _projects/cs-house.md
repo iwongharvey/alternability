@@ -2,7 +2,7 @@
 category: HOUSE
 date: 2019-08-20 16:08:51 +0800
 tag:
-- 'Elaborate Residential     '
+- Elaborate Residential
 title: CS HOUSE
 title_cn: 海边的一套极简居所
 cover: "/uploads/2019/09/29/3 (2)_看图王-1.jpg"
