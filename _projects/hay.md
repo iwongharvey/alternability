@@ -2,7 +2,7 @@
 category: SHOP
 date: 2018-01-01 10:22:07 +0800
 tag:
-- 'Exhibition hall & furniture '
+- Exhibition hall & furniture
 title: HAY
 cover: "/uploads/2019/10/14/timg-09-04-1_看图王.jpg"
 images:
