@@ -159,6 +159,7 @@ fields:
       format: markdown
   label: 描述
 pages:
+- _projects/project-3.md
 - _projects/ht-fitness-vi.md
 - _projects/ht-fitness.md
 - _projects/cs-house.md
@@ -169,7 +170,6 @@ pages:
 - _projects/hay.md
 - _projects/one-one-vi.md
 - _projects/sensorylab-shop.md
-- _projects/project-3.md
 - _projects/project-2.md
 - _projects/project-1.md
 - _projects/seerfashion-office.md
