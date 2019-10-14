@@ -2,7 +2,7 @@
 category: SHOP
 date: 2019-06-19 10:14:44 +0800
 tag:
-- " Shopmall & entertainment & Sports"
+- Shopmall & entertainment & Sports
 title: HT FITNESS
 cover: "/uploads/2019/10/14/timg-09-05_看图王.jpg"
 images:
