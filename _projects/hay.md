@@ -6,7 +6,6 @@ tag:
 title: HAY
 cover: "/uploads/2019/10/14/timg-09-04-1_看图王.jpg"
 images:
-- "/uploads/2019/10/14/timg-09-04-01_看图王.jpg"
 - "/uploads/2019/10/14/timg-09-04-05_看图王.jpg"
 - "/uploads/2019/10/14/timg-09-04-06_看图王.jpg"
 - "/uploads/2019/10/14/timg-09-04-07_看图王.jpg"
@@ -16,6 +15,7 @@ images:
 - "/uploads/2019/10/14/timg-09-04-10_看图王.jpg"
 - "/uploads/2019/10/14/timg-09-04-04_看图王.jpg"
 - "/uploads/2019/10/14/timg-09-04-02_看图王.jpg"
+- "/uploads/2019/10/14/timg-09-04-01_看图王.jpg"
 client: HAY
 location: XXX
 area: "200"
